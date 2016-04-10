@@ -1,6 +1,9 @@
 # audiobookserver
-
-TODO: Write a project description
+As a user I would like to play my audiobooks where ever I am and
+be able to resume my audiobook wherever I left off.
+- Ability to play audiobooks.
+- Provide a library for audiobook selection.
+- Metadata of user's progress on an audiobook.
 
 ## Installation
 
